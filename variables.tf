@@ -28,7 +28,7 @@ variable "schedule" {
 variable "start_time" {
   description = "Time when you start your instance"
   type        = string
-  default     = "22:35"
+  default     = "10:00"
 }
 
 variable "stop_time" {
